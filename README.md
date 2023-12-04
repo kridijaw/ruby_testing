@@ -1,29 +1,28 @@
 # RSpec Playground
-The purpose of this repository is to provide 'hands-on' RSpec lessons. These lessons were designed to equip students of the [The Odin Project](https://www.theodinproject.com/) to write tests for their Tic-Tac-Toe and to TDD their Connect Four.
 
-## Topics
-These lessons cover many topics, but it does not cover everything that RSpec is capable of testing. You should expect to learn foundational knowledge on the following topics:
-- Let Variables
-- Implicit and Explicit Subject
-- A variety of built-in-matchers
-- Setting values for instance variables to create test conditions
-- The 'Arrange, Act & Assert' testing pattern
-- Stubs, Mocks, and Doubles
-- Test Driven Development
+Created as part of The Odin Project[^1] curriculum.
 
-## Set-Up
-Run `rbenv versions` to confirm that you have ruby version 3.2.2 installed. If you do not have this version installed, please refer back to these [instructions](https://www.theodinproject.com/lessons/ruby-installing-ruby) to install it.
+- [ ] 01_string_spec.rb
+- [ ] 02_array_spec.rb
+- [ ] 03_number_spec.rb
+- [ ] 04_hash_spec.rb
+- [ ] 05_truthy_falsy_spec.rb
+- [ ] 06_equality_spec.rb
+- [ ] 07_all_contain_exactly_spec.rb
+- [ ] 08_change_spec.rb
+- [ ] 09_custom_matcher_spec.rb
+- [ ] 10_drink_spec.rb
+- [ ] 11a_shared_example_spec.rb
+- [ ] 11b_cat_spec.rb
+- [ ] 11c_dog_spec.rb
+- [ ] 12_magic_seven_spec.rb
+- [ ] 13_input_output_spec.rb
+- [ ] 14_find_number_spec.rb
+- [ ] 15a_binary_game_spec.rb
+- [ ] 15b_binary_search_spec.rb
+- [ ] 16a_caesar_breaker_spec.rb
+- [ ] 16b_caesar_translator_spec.rb
 
-Run `bundle install` from the root directory.
+<br/><br/>
 
-## How to use this playground
-These lessons are numbered 01 - 16, in the **spec** folder. Start with the file: <code>spec/01_string_spec.rb</code>. The first 9 lessons are self-contained in the spec file. Starting with lesson 10, there will be 1-3 corresponding files in the <code>lib</code> folder.
-
-If you get stuck on a lesson, there is a corresponding answer file located in the <code>spec_answer</code> folder.
-
-## Running Tests
-Since this repository is full of tests, it is recommended to only run <code>rspec</code> on one individual file at at time. For example, to run the first test file from the root of this directory:
-
-<pre><code>rspec spec/01_string_spec.rb</code></pre>
-
-Tip: If you have tab completion set-up, you can hit 'tab' after the first few characters of the file name.
+[^1]: The Odin Project. _Introduction to RSpec_. https://www.theodinproject.com/lessons/ruby-introduction-to-rspec
