@@ -11,8 +11,8 @@ Created as part of The Odin Project[^1] curriculum.
 - [x] 06_equality_spec.rb
 - [x] 07_all_contain_exactly_spec.rb
 - [x] 08_change_spec.rb
-- [ ] 09_custom_matcher_spec.rb
-- [ ] 10_drink_spec.rb
+- [x] 09_custom_matcher_spec.rb
+- [x] 10_drink_spec.rb
 - [ ] 11b_cat_spec.rb
 - [ ] 11c_dog_spec.rb
 - [ ] 12_magic_seven_spec.rb
