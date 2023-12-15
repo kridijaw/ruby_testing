@@ -13,11 +13,10 @@ Created as part of The Odin Project[^1] curriculum.
 - [x] 08_change_spec.rb
 - [x] 09_custom_matcher_spec.rb
 - [x] 10_drink_spec.rb
-- [ ] 11b_cat_spec.rb
-- [ ] 11c_dog_spec.rb
-- [ ] 12_magic_seven_spec.rb
-- [ ] 13_input_output_spec.rb
-- [ ] 14_find_number_spec.rb
+- [x] 11b_cat_spec.rb
+- [x] 12_magic_seven_spec.rb
+- [x] 13_input_output_spec.rb
+- [x] 14_find_number_spec.rb
 - [ ] 15a_binary_game_spec.rb
 - [ ] 16a_caesar_breaker_spec.rb
 
