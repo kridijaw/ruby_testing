@@ -17,7 +17,7 @@ Created as part of The Odin Project[^1] curriculum.
 - [x] 12_magic_seven_spec.rb
 - [x] 13_input_output_spec.rb
 - [x] 14_find_number_spec.rb
-- [ ] 15a_binary_game_spec.rb
+- [x] 15a_binary_game_spec.rb
 - [ ] 16a_caesar_breaker_spec.rb
 
 <br/><br/>
